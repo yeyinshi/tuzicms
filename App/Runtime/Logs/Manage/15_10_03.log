@@ -1,0 +1,1214 @@
+[ 2015-10-03T16:47:06+08:00 ] 127.0.0.1 /tuzicms/index.php/Manage/System/do_clearRuntime
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001270s ]
+
+[ 2015-10-03T16:47:07+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/system/mclearhtml.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000348s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\319aee46db7eccd2eb37be21bed9926d.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000717s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001539s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001009s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001185s ]
+
+[ 2015-10-03T16:47:08+08:00 ] 127.0.0.1 /tuzicms/index.php/Manage/System/do_mclearhtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001257s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Use of undefined constant RUNTIME_FILE - assumed 'RUNTIME_FILE' D:\wamp\www\tuzicms\App\Manage\Controller\SystemController.class.php 第 580 行.
+NOTIC: [2] unlink(./App//Html/Mobile/.) [<a href='function.unlink'>function.unlink</a>]: Permission denied D:\wamp\www\tuzicms\App\Manage\Controller\SystemController.class.php 第 592 行.
+NOTIC: [2] unlink(./App//Html/Mobile/..) [<a href='function.unlink'>function.unlink</a>]: Permission denied D:\wamp\www\tuzicms\App\Manage\Controller\SystemController.class.php 第 592 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000341s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012138s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000701s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000863s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001019s ]
+
+[ 2015-10-03T16:47:08+08:00 ] 127.0.0.1 /tuzicms/index.php/Manage/System/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+ERR: 非法操作:css
+
+[ 2015-10-03T16:47:09+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/system/mclearhtml.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001590s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000353s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\319aee46db7eccd2eb37be21bed9926d.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012947s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000881s ]
+
+[ 2015-10-03T16:47:10+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001213s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0051s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0055s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0045s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0044s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000392s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019019s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000505s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001087s ]
+
+[ 2015-10-03T16:48:55+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001136s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000357s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019072s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001632s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001072s ]
+
+[ 2015-10-03T16:48:56+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0042s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000345s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001466s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001296s ]
+
+[ 2015-10-03T16:48:57+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0056s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0062s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0048s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000392s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018639s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001236s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000870s ]
+
+[ 2015-10-03T16:48:57+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0044s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0051s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000347s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017162s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000904s ]
+
+[ 2015-10-03T16:48:57+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0054s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0051s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017538s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017743s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001279s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000852s ]
+
+[ 2015-10-03T16:48:57+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0055s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0058s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000373s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020785s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000867s ]
+
+[ 2015-10-03T16:49:06+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/category/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_column` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `tuzi_column` ORDER BY column_sort ASC  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tuzi_model` [ RunTime:0.0045s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='5' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='5' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='5' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Article'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Page'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Page'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Page'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Page'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Article'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Article'  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Article'  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Product'  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Product'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Product'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Photo'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Photo'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Download'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Download'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Download'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Page'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Page'  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Article'  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000783s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\50fb5b86f8eb46a8db45c2e326d3bd91.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021177s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001545s ]
+
+[ 2015-10-03T16:49:06+08:00 ] 127.0.0.1 /tuzicms/index.php/Manage/Page/index/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001146s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_column` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `tuzi_column` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\8262c25dcc23276582d2175080032d7b.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000846s ]
+
+[ 2015-10-03T16:49:07+08:00 ] 127.0.0.1 /tuzicms/index.php/Manage/Article/index/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_column` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `tuzi_column` WHERE ( id=2 ) ORDER BY column_sort  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tuzi_column` ORDER BY column_sort  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `tuzi_news` WHERE `nv_id` IN ('3','4','2') AND ( news_dell=0 )  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `tuzi_column` [ RunTime:0.0046s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_attr` [ RunTime:0.0044s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='1' [ RunTime:0.0004s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='2' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='6' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='10' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='20' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='21' [ RunTime:0.0003s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='22' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='23' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='24' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='25' [ RunTime:0.0003s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='26' [ RunTime:0.0003s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='27' [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_news` WHERE `nv_id` IN ('3','4','2') AND ( news_dell=0 ) ORDER BY news_sort,id desc LIMIT 0,15   [ RunTime:0.0011s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='26' [ RunTime:0.0004s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='27' [ RunTime:0.0003s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='10' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='2' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='1' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='25' [ RunTime:0.0003s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='24' [ RunTime:0.0004s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='23' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='22' [ RunTime:0.0005s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='21' [ RunTime:0.0004s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='20' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='6' [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 18 行.
+NOTIC: [8] Use of undefined constant not - assumed 'not' D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 33 行.
+NOTIC: [8] Undefined variable: ifid D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 33 行.
+NOTIC: [8] Undefined index: attr_name D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 88 行.
+NOTIC: [8] Undefined index: attr_name D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 88 行.
+NOTIC: [8] Undefined index: attr_name D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 88 行.
+NOTIC: [8] Undefined index: attr_name D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 88 行.
+NOTIC: [8] Undefined index: attr_name D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 88 行.
+NOTIC: [8] Undefined index: attr_name D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 88 行.
+NOTIC: [8] Undefined index: attr_name D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 88 行.
+NOTIC: [8] Undefined index: attr_name D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 88 行.
+NOTIC: [8] Undefined index: attr_name D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 88 行.
+NOTIC: [8] Undefined index: attr_name D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 88 行.
+NOTIC: [8] Undefined index: attr_name D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 88 行.
+NOTIC: [8] Undefined index: attr_name D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\92817159c04fb10a0e2951c045c9f8da.php 第 88 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031385s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031560s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001268s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000889s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001045s ]
+
+[ 2015-10-03T16:49:08+08:00 ] 127.0.0.1 /tuzicms/index.php/Manage/Product/index/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_column` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `tuzi_column` WHERE ( id=8 ) ORDER BY column_sort  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tuzi_column` ORDER BY column_sort  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `tuzi_news` WHERE `nv_id` IN ('9','18','8') AND ( news_dell=0 )  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `tuzi_column` [ RunTime:0.0056s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='9' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_attr` [ RunTime:0.0049s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='3' [ RunTime:0.0005s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='9' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='4' [ RunTime:0.0005s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='9' ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='5' [ RunTime:0.0003s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='9' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='9' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='9' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='28' [ RunTime:0.0002s ]
+SQL: SELECT * FROM `tuzi_news` WHERE `nv_id` IN ('9','18','8') AND ( news_dell=0 ) ORDER BY news_sort,id desc LIMIT 0,15   [ RunTime:0.0006s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='9' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='28' [ RunTime:0.0005s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='9' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='9' [ RunTime:0.0003s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='9' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='5' [ RunTime:0.0002s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='9' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='4' [ RunTime:0.0003s ]
+SQL: SELECT `column_name` FROM `tuzi_column` WHERE ( 1=1 AND id='9' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: mapping_order D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 186 行.
+NOTIC: [8] Undefined index: mapping_limit D:\wamp\www\tuzicms\Core\Library\Think\Model\RelationModel.class.php 第 187 行.
+SQL: SELECT b.* FROM tuzi_attr_news AS a, tuzi_attr AS b WHERE a.attr_id = b.id AND a. news_id='3' [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000382s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\942835381d391d88d201776040d93ee9.php 第 5 行.
+NOTIC: [8] Use of undefined constant not - assumed 'not' D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\942835381d391d88d201776040d93ee9.php 第 32 行.
+NOTIC: [8] Undefined variable: ifid D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\942835381d391d88d201776040d93ee9.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025970s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001586s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000996s ]
+
+[ 2015-10-03T16:49:10+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/category/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_column` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `tuzi_column` ORDER BY column_sort ASC  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `tuzi_model` [ RunTime:0.0047s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='5' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='5' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='5' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Article'  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Page'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Page'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Page'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Page'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Article'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Article'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Article'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Product'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Product'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Product'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Photo'  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Photo'  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Download'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Download'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Download'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Page'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Page'  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tuzi_model` WHERE `model_table` = 'Article'  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\CategoryController.class.php 第 48 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000187s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000376s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\50fb5b86f8eb46a8db45c2e326d3bd91.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021563s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000652s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000904s ]
+
+[ 2015-10-03T16:49:11+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001508s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0054s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0061s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0045s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000357s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018108s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000846s ]
+
+[ 2015-10-03T16:49:11+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001290s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0053s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0051s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000362s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019336s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001435s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000888s ]
+
+[ 2015-10-03T16:49:12+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000982s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0058s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0048s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000363s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028045s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000855s ]
+
+[ 2015-10-03T16:49:12+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0045s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000348s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026377s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000763s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000922s ]
+
+[ 2015-10-03T16:49:21+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_column` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `tuzi_column` WHERE ( column_link=0 AND f_id=0 ) ORDER BY column_sort  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `tuzi_model` [ RunTime:0.0045s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='5' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `tuzi_adnav` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `tuzi_adnav` ORDER BY id  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant Advert - assumed 'Advert' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant Advert - assumed 'Advert' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant Advert - assumed 'Advert' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant Advert - assumed 'Advert' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant Advert - assumed 'Advert' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant Advert - assumed 'Advert' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tuzi_config` [ RunTime:0.0056s ]
+SQL: SELECT `config_webname` FROM `tuzi_config`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000433s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033161s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033389s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000502s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2015-10-03T16:49:21+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0063s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0048s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0057s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0058s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000363s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019322s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001276s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000893s ]
+
+[ 2015-10-03T16:49:25+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001271s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_column` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `tuzi_column` WHERE ( column_link=0 AND f_id=0 ) ORDER BY column_sort  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `tuzi_model` [ RunTime:0.0061s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='5' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `tuzi_adnav` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `tuzi_adnav` ORDER BY id  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant Advert - assumed 'Advert' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant Advert - assumed 'Advert' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant Advert - assumed 'Advert' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant Advert - assumed 'Advert' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant Advert - assumed 'Advert' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant Advert - assumed 'Advert' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant index - assumed 'index' D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tuzi_config` [ RunTime:0.0050s ]
+SQL: SELECT `config_webname` FROM `tuzi_config`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000224s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000429s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031591s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000520s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000943s ]
+
+[ 2015-10-03T16:49:26+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `tuzi_admin` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `tuzi_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tuzi_user` [ RunTime:0.0054s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_news` [ RunTime:0.0051s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_news` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_guestbook` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_guestbook` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_advert` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `tuzi_notice` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW TABLE STATUS [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000252s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8] Undefined variable: sitename D:\wamp\www\tuzicms\App\Runtime\Cache\Manage\95db2d552a62159e2c20aaf14f39664c.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021824s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022023s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000509s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001139s ]
+
+[ 2015-10-03T16:49:38+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/login_out
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\AdminController.class.php 第 117 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000370s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012145s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000902s ]
+
+[ 2015-10-03T16:49:38+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/admin/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001507s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\tuzicms\App\Manage\Controller\CommonController.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000383s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012762s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012982s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001175s ]
+
+[ 2015-10-03T16:49:39+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000321s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000654s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001434s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000864s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001010s ]
+
+[ 2015-10-03T16:49:39+08:00 ] 127.0.0.1 /tuzicms/index.php/Manage/Verify/code?w=200&h=32
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001133s ]
+
+[ 2015-10-03T16:49:42+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000211s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000518s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015433s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000742s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001713s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001325s ]
+
+[ 2015-10-03T16:49:42+08:00 ] 127.0.0.1 /tuzicms/index.php/Manage/Verify/code?w=200&h=32
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001672s ]
+
+[ 2015-10-03T16:50:53+08:00 ] 127.0.0.1 /tuzicms/index.php/manage/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000329s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014709s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000656s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2015-10-03T16:50:53+08:00 ] 127.0.0.1 /tuzicms/index.php/Manage/Verify/code?w=200&h=32
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001111s ]
+

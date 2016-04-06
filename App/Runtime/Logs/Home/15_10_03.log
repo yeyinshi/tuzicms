@@ -1,0 +1,101 @@
+[ 2015-10-03T16:49:34+08:00 ] 127.0.0.1 /tuzicms/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+SQL: SHOW COLUMNS FROM `tuzi_config` [ RunTime:0.0049s ]
+SQL: SELECT `config_webtitle`,`config_webkw`,`config_cp`,`config_company` FROM `tuzi_config` LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000490s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000713s ]
+SQL: SHOW COLUMNS FROM `tuzi_column` [ RunTime:0.0051s ]
+SQL: SELECT `id`,`f_id`,`column_name`,`column_ename`,`column_url`,`column_type`,`column_sort`,`column_status`,`column_link` FROM `tuzi_column` WHERE ( column_status=0 ) ORDER BY column_sort  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tuzi_model` [ RunTime:0.0063s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='5' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='5' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='5' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `model_table` FROM `tuzi_model` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant group - assumed 'group' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 132 行.
+NOTIC: [8] Use of undefined constant group - assumed 'group' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 132 行.
+NOTIC: [8] Use of undefined constant group - assumed 'group' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 132 行.
+NOTIC: [8] Use of undefined constant group - assumed 'group' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 132 行.
+NOTIC: [8] Use of undefined constant group - assumed 'group' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 132 行.
+NOTIC: [8] Use of undefined constant group - assumed 'group' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 132 行.
+NOTIC: [8] Use of undefined constant group - assumed 'group' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 132 行.
+SQL: SHOW COLUMNS FROM `tuzi_adnav` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `tuzi_adnav` WHERE ( id=2 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tuzi_advert` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `tuzi_advert` WHERE `advert_nav` = 2 AND ( advert_show=0 ) ORDER BY advert_sort  LIMIT 0,5   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tuzi_adnav` [ RunTime:0.0048s ]
+SQL: SELECT `adnav_name` FROM `tuzi_adnav` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `adnav_name` FROM `tuzi_adnav` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `adnav_name` FROM `tuzi_adnav` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `tuzi_notice` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `tuzi_notice` ORDER BY id desc LIMIT 0,5   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tuzi_column` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `tuzi_column` WHERE ( id=2 ) ORDER BY column_sort  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tuzi_column` ORDER BY column_sort  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `tuzi_attr` [ RunTime:0.0049s ]
+SQL: SELECT g.id,g.attr_name,g.attr_color,i.news_id,i.attr_id,r.id,r.nv_id,r.news_title,r.news_content,r.news_hits,r.news_author,r.news_addtime,r.news_updatetime,r.news_sort,r.news_pic,f.column_name,m.model_table FROM tuzi_attr g LEFT JOIN tuzi_attr_news i ON i.attr_id = g.id LEFT JOIN tuzi_news r ON r.id = i.news_id LEFT JOIN tuzi_column f ON f.id = r.nv_id LEFT JOIN tuzi_model m ON m.id = f.column_type  WHERE g.id = 1 AND `nv_id` IN ('3','4','2') AND ( news_dell=0 ) ORDER BY r.news_sort  LIMIT 0,3   [ RunTime:0.0051s ]
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 205 行.
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 205 行.
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 205 行.
+SQL: SELECT * FROM `tuzi_column` WHERE ( id=8 ) ORDER BY column_sort  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tuzi_column` ORDER BY column_sort  [ RunTime:0.0007s ]
+SQL: SELECT g.id,g.attr_name,g.attr_color,i.news_id,i.attr_id,r.id,r.nv_id,r.news_title,r.news_content,r.news_hits,r.news_author,r.news_addtime,r.news_updatetime,r.news_sort,r.news_pic,f.column_name,m.model_table FROM tuzi_attr g LEFT JOIN tuzi_attr_news i ON i.attr_id = g.id LEFT JOIN tuzi_news r ON r.id = i.news_id LEFT JOIN tuzi_column f ON f.id = r.nv_id LEFT JOIN tuzi_model m ON m.id = f.column_type  WHERE g.id = 1 AND `nv_id` IN ('9','18','8') AND ( news_dell=0 ) ORDER BY r.news_sort  LIMIT 0,5   [ RunTime:0.0049s ]
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 231 行.
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 231 行.
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 231 行.
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 231 行.
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 231 行.
+SQL: SELECT * FROM `tuzi_column` WHERE ( id=10 ) ORDER BY column_sort  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tuzi_column` ORDER BY column_sort  [ RunTime:0.0006s ]
+SQL: SELECT g.id,g.attr_name,g.attr_color,i.news_id,i.attr_id,r.id,r.nv_id,r.news_title,r.news_content,r.news_hits,r.news_author,r.news_addtime,r.news_updatetime,r.news_sort,r.news_pic,f.column_name,m.model_table FROM tuzi_attr g LEFT JOIN tuzi_attr_news i ON i.attr_id = g.id LEFT JOIN tuzi_news r ON r.id = i.news_id LEFT JOIN tuzi_column f ON f.id = r.nv_id LEFT JOIN tuzi_model m ON m.id = f.column_type  WHERE g.id = 1 AND `nv_id` IN ('19','10') AND ( news_dell=0 ) ORDER BY r.news_sort  LIMIT 0,5   [ RunTime:0.0051s ]
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 245 行.
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 245 行.
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 245 行.
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 245 行.
+NOTIC: [8] Use of undefined constant detail - assumed 'detail' D:\wamp\www\tuzicms\App\Runtime\Cache\Home\39806739509c99e60625adbbe472e82e.php 第 245 行.
+SQL: SHOW COLUMNS FROM `tuzi_link` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `tuzi_link` WHERE ( link_show=0 ) ORDER BY link_sort  LIMIT 32   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `tuzi_kefu` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `tuzi_kefu` ORDER BY id LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.167246s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.167413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000521s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000930s ]
+
+[ 2015-10-03T16:49:35+08:00 ] 127.0.0.1 /tuzicms/index.php/common/loginchk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+NOTIC: [8] Undefined index: uid D:\wamp\www\tuzicms\App\Home\Controller\CommonController.class.php 第 307 行.
+NOTIC: [8] Undefined index: user_email D:\wamp\www\tuzicms\App\Home\Controller\CommonController.class.php 第 308 行.
+NOTIC: [8] Undefined index: user_name D:\wamp\www\tuzicms\App\Home\Controller\CommonController.class.php 第 309 行.
+
